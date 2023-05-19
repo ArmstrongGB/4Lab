@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="txt_main">Main Activity</string>
+    <string name="txt_btn_change_act">Переключить</string>
+    <string name="txt_plainText">Введите текст</string>
+    <string name="txt_act2">Action 2</string>
+    <string name="txt_plainText1">Введите текст</string>
+    <string name="txt_plainText3">Введите текст</string>
+    <string name="txt_act3">Action 1</string>
+
+</resources>
